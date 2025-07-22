@@ -1,4 +1,4 @@
-# 🏙️ Boston 90s Condo Market – Data Visualization Project
+# Boston 90s Condo Market – Data Visualization Project
 
 Explore how Bostonians bought and sold condos in the 1990s — through data. This project uses a public dataset, Tableau dashboards, and storytelling to uncover hidden patterns in real estate pricing, negotiations, and neighborhood trends.
 
