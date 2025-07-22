@@ -11,8 +11,6 @@ Explore how Bostonians bought and sold condos in the 1990s — through data. Thi
 - **Part 1:** [Visualizing Boston’s Real Estate in the 90s – Part 1](#)  
 - **Part 2:** [Visualizing Boston’s Real Estate in the 90s – Part 2](#)
 
-> *(Add real Medium links above when published)*
-
 ## 🛠 Tools Used
 
 - Tableau Public  
