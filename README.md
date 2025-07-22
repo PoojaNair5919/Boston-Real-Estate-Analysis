@@ -8,7 +8,7 @@ Explore how Bostonians bought and sold condos in the 1990s — through data. Thi
 
 ## 📖 Medium Articles
 
-- **Part 1:** [Visualizing Boston’s Real Estate in the 90s – Part 1](#https://medium.com/@poojanair5919/what-90s-boston-condo-sales-reveal-about-market-psychology-a-data-story-part-1-160028027f3d)  
+- **Part 1:** [Visualizing Boston’s Real Estate in the 90s – Part 1](https://medium.com/@poojanair5919/what-90s-boston-condo-sales-reveal-about-market-psychology-a-data-story-part-1-160028027f3d)(#)  
 - **Part 2:** [Visualizing Boston’s Real Estate in the 90s – Part 2](#)
 
 ## 🛠 Tools Used
